@@ -17,15 +17,7 @@ body{
 
 .MainBackground{
     background-image: url("/images/banner.jpg");
-    background-size: cover;
-    background-position: center;
-    background-repeat: no-repeat;
     height: 120vh;
-    position: relative;
-}
-
-.MainBanner{
-    min-height: 80vh;
     position: relative;
 }
 
